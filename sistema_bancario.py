@@ -54,7 +54,7 @@ limite = 500
 extrato = ""
 numero_saques = 0
 LIMITE_SAQUE = 3
-lista_usuarios = 
+lista_usuarios = {}
 
 while True:
     
